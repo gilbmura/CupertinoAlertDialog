@@ -23,11 +23,13 @@ This demo focuses on exactly three `CupertinoAlertDialog` attributes:
 - `content`: Shows the warning message, such as `This action cannot be undone.`
 - `actions`: Defines the buttons shown in the dialog, such as `Cancel` and `Delete`
 
-## Screenshot
+## Screenshots
 
-final UI here:
+The README now shows both images from the app demo:
 
-![Final UI](./assets/altertdialog1.png)(./assets/alertdialog.png)
+![Alert Dialog 1](./assets/alertdialog.png)
+
+![Alert Dialog 2](./assets/altertdialog1.png)
 
 ## Presentation Comment
 
