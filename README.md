@@ -27,7 +27,7 @@ This demo focuses on exactly three `CupertinoAlertDialog` attributes:
 
 final UI here:
 
-![Final UI](./assets/alertdialog.png)
+![Final UI](./assets/altertdialog1.png)(./assets/alertdialog.png)
 
 ## Presentation Comment
 
